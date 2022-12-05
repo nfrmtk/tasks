@@ -1,0 +1,10 @@
+{
+  "q": "And in Washington?",
+  "a": "No, I ____ live in Washington at that time!",
+  "variants": [
+    "did",
+    "didn't",
+    "do"
+  ],
+  "correct": 1
+}

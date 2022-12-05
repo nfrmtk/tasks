@@ -1,8 +1,10 @@
 {
-  "q": "string",
-  "a": "string",
+  "q": "Alex!",
+  "a": "What? We ____ be at home in five hours.",
   "variants": [
-    "string"
+    "are",
+    "won't",
+    "will"
   ],
-  "correct": 0
+  "correct": 2
 }

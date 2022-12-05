@@ -1,8 +1,10 @@
 {
-  "q": "string",
-  "a": "string",
+  "q": "Hello! Do you want to go to France?",
+  "a": "Yes, I ____ to do it!",
   "variants": [
-    "string"
+    "want",
+    "wants",
+    "wanted"
   ],
   "correct": 0
 }

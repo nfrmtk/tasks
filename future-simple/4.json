@@ -1,0 +1,10 @@
+{
+  "q": "Yes, but there are bears in Russia.",
+  "a": "...We ____ be in Moscow.",
+  "variants":[
+    "wont",
+    "will",
+    "are"
+  ],
+  "correct": 0
+}

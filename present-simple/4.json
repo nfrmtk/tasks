@@ -1,0 +1,10 @@
+{
+  "q": "But she has money.",
+  "a": "..._____ she have much money?",
+  "variants": [
+    "Do",
+    "Is",
+    "Does"
+  ],
+  "correct": 2
+}

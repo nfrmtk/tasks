@@ -1,0 +1,10 @@
+{
+  "q": "But our airplane pilot was killed two hours ago.",
+  "a": "____ we be at home?",
+  "variants": [
+    "Will",
+    "Won’t",
+    "Don't"
+  ],
+  "correct": 1
+}

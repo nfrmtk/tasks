@@ -1,0 +1,10 @@
+{
+  "q": "Oh, I was in Washington five years ago.",
+  "a": "____ you live in Washington five years ago?",
+  "variants": [
+    "Do",
+    "Did",
+    "Didn't"
+  ],
+  "correct": 1
+}
