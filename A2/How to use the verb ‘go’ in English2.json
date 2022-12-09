@@ -1,0 +1,11 @@
+{
+  "textStart": "I never go ",
+  "textEnd": " on Friday.",
+  "text": "I never go  _____  on Friday.",
+  "variants": [
+    "shopping",
+    "for shopping",
+    "to shop"
+  ],
+  "correct": 0
+}
