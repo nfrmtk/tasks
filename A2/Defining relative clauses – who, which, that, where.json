@@ -1,0 +1,112 @@
+[
+  {
+    "textStart": "I have a friend ",
+    "textEnd": " speaks four languages.",
+    "text": "I have a friend  _____  speaks four languages.",
+    "variants": [
+      "that he",
+      "which",
+      "who"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "The Internet is a place ",
+    "textEnd": " you can get cheap technology products.",
+    "text": "The Internet is a place  _____  you can get cheap technology products.",
+    "variants": [
+      "that",
+      "where",
+      "which"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "E-mails ",
+    "textEnd": " advertise things are called \"spam\".",
+    "text": "E-mails  _____  advertise things are called \"spam\".",
+    "variants": [
+      "which",
+      "who",
+      "where"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "A \"technophobe\" is someone ",
+    "textEnd": " is scared of technology.",
+    "text": "A \"technophobe\" is someone  _____  is scared of technology.",
+    "variants": [
+      "that",
+      "where",
+      "which"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "We should only buy products ",
+    "textEnd": " can be recycled.",
+    "text": "We should only buy products  _____  can be recycled.",
+    "variants": [
+      "where",
+      "who",
+      "that"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "That's the shop ",
+    "textEnd": " I bought those shoes.",
+    "text": "That's the shop  _____  I bought those shoes.",
+    "variants": [
+      "that",
+      "where",
+      "which"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "I can't find the CD ",
+    "textEnd": " I borrowed from you.",
+    "text": "I can't find the CD  _____  I borrowed from you.",
+    "variants": [
+      "what",
+      "that",
+      "who"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "Do you remember the park ",
+    "textEnd": " we met?",
+    "text": "Do you remember the park  _____  we met?",
+    "variants": [
+      "that",
+      "where",
+      "which"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "There were three people at the party ",
+    "textEnd": " knew me.",
+    "text": "There were three people at the party  _____  knew me.",
+    "variants": [
+      "who",
+      "which",
+      "that they"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "I want to see the film ",
+    "textEnd": " everybody's talking about.",
+    "text": "I want to see the film  _____  everybody's talking about.",
+    "variants": [
+      "who",
+      "that it",
+      "which"
+    ],
+    "correct": 2
+  }
+]
