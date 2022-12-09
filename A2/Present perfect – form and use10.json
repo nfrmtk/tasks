@@ -1,0 +1,10 @@
+{
+  "textStart": "She's worked in this bank ",
+  "textEnd": " it first opened.",
+  "text": "She's worked in this bank  _____  it first opened.",
+  "variants": [
+    "since",
+    "for"
+  ],
+  "correct": 0
+}

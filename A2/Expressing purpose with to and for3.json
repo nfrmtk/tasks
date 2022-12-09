@@ -1,0 +1,10 @@
+{
+  "textStart": "I'm on a diet ",
+  "textEnd": " lose some weight.",
+  "text": "I'm on a diet  _____  lose some weight.",
+  "variants": [
+    "for",
+    "to"
+  ],
+  "correct": 1
+}

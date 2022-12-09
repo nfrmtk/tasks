@@ -1,0 +1,11 @@
+{
+  "textStart": "At 7 I always go ",
+  "textEnd": ".",
+  "text": "At 7 I always go  _____ .",
+  "variants": [
+    "for swimming",
+    "on a swim",
+    "for a swim"
+  ],
+  "correct": 2
+}

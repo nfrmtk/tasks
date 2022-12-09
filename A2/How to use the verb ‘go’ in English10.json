@@ -1,0 +1,11 @@
+{
+  "textStart": "We shouldn't go ",
+  "textEnd": " work when we are not feeling well.",
+  "text": "We shouldn't go  _____  work when we are not feeling well.",
+  "variants": [
+    "for",
+    "to the",
+    "to"
+  ],
+  "correct": 2
+}

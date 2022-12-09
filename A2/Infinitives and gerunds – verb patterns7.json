@@ -1,0 +1,11 @@
+{
+  "textStart": "Have you finished ",
+  "textEnd": " the house?",
+  "text": "Have you finished  _____  the house?",
+  "variants": [
+    "painting",
+    "to paint",
+    "paint"
+  ],
+  "correct": 0
+}

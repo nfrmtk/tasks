@@ -1,0 +1,11 @@
+{
+  "textStart": "I think I've eaten ",
+  "textEnd": ". I don't feel very well.",
+  "text": "I think I've eaten  _____ . I don't feel very well.",
+  "variants": [
+    "too many",
+    "enough",
+    "too much"
+  ],
+  "correct": 2
+}

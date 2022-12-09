@@ -1,0 +1,10 @@
+{
+  "textStart": "Do you have time ",
+  "textEnd": " a cup of tea?",
+  "text": "Do you have time  _____  a cup of tea?",
+  "variants": [
+    "to",
+    "for"
+  ],
+  "correct": 1
+}

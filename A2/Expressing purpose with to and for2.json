@@ -1,0 +1,10 @@
+{
+  "textStart": "Call your doctor ",
+  "textEnd": " an appointment. ",
+  "text": "Call your doctor  _____  an appointment. ",
+  "variants": [
+    "to",
+    "for"
+  ],
+  "correct": 1
+}

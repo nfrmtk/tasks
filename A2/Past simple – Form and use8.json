@@ -1,0 +1,11 @@
+{
+  "textStart": "The meeting ",
+  "textEnd": " well.",
+  "text": "The meeting  _____  well.",
+  "variants": [
+    "went not",
+    "didn't went",
+    "didn't go"
+  ],
+  "correct": 2
+}

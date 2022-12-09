@@ -1,0 +1,10 @@
+{
+  "textStart": "Where can I go ",
+  "textEnd": " buy the ingredients?",
+  "text": "Where can I go  _____  buy the ingredients?",
+  "variants": [
+    "for",
+    "to"
+  ],
+  "correct": 1
+}

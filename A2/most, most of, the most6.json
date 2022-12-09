@@ -1,0 +1,11 @@
+{
+  "textStart": "Studies show that ",
+  "textEnd": " teenagers need 9 hours of sleep.",
+  "text": "Studies show that  _____  teenagers need 9 hours of sleep.",
+  "variants": [
+    "most of",
+    "the most",
+    "most"
+  ],
+  "correct": 2
+}

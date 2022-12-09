@@ -1,0 +1,11 @@
+{
+  "textStart": "I ate ",
+  "textEnd": " cakes and felt sick later.",
+  "text": "I ate  _____  cakes and felt sick later.",
+  "variants": [
+    "too much",
+    "too",
+    "too many"
+  ],
+  "correct": 2
+}

@@ -1,0 +1,11 @@
+{
+  "textStart": "I couldn't ",
+  "textEnd": " you because I didn't have my phone.",
+  "text": "I couldn't  _____  you because I didn't have my phone.",
+  "variants": [
+    "to phone",
+    "phoning",
+    "phone"
+  ],
+  "correct": 2
+}

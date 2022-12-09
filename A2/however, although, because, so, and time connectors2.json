@@ -1,0 +1,12 @@
+{
+  "textStart": null,
+  "textEnd": " it was very cold, she wasn't wearing a coat.",
+  "text": " _____  it was very cold, she wasn't wearing a coat.",
+  "variants": [
+    "Because",
+    "So",
+    "But",
+    "Although"
+  ],
+  "correct": 3
+}

@@ -1,0 +1,11 @@
+{
+  "textStart": "She offered ",
+  "textEnd": " me.",
+  "text": "She offered  _____  me.",
+  "variants": [
+    "helping",
+    "help",
+    "to help"
+  ],
+  "correct": 2
+}
