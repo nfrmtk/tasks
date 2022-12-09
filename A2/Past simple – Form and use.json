@@ -1,0 +1,112 @@
+[
+  {
+    "textStart": "We ",
+    "textEnd": " to Vancouver on holiday.",
+    "text": "We  _____  to Vancouver on holiday.",
+    "variants": [
+      "goed",
+      "went",
+      "did go"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": null,
+    "textEnd": " by plane?",
+    "text": " _____  by plane?",
+    "variants": [
+      "went you",
+      "Did you went",
+      "Did you go"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "Jack ",
+    "textEnd": " with us.",
+    "text": "Jack  _____  with us.",
+    "variants": [
+      "didn't come",
+      "didn't came",
+      "wasn't come"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "The car suddenly ",
+    "textEnd": ".",
+    "text": "The car suddenly  _____ .",
+    "variants": [
+      "stoped",
+      "did stop",
+      "stopped"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "When she arrived he ",
+    "textEnd": " at home.",
+    "text": "When she arrived he  _____  at home.",
+    "variants": [
+      "weren't",
+      "wasn't",
+      "didn't was"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "The police ",
+    "textEnd": " the robber.",
+    "text": "The police  _____  the robber.",
+    "variants": [
+      "caught",
+      "was catch",
+      "catched"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "I ",
+    "textEnd": " a black shirt for the gala.",
+    "text": "I  _____  a black shirt for the gala.",
+    "variants": [
+      "choosed",
+      "did choose",
+      "chose"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "The meeting ",
+    "textEnd": " well.",
+    "text": "The meeting  _____  well.",
+    "variants": [
+      "went not",
+      "didn't went",
+      "didn't go"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "Manchester United ",
+    "textEnd": " the final.",
+    "text": "Manchester United  _____  the final.",
+    "variants": [
+      "did lose",
+      "losed",
+      "lost"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "How much ",
+    "textEnd": " for the car?",
+    "text": "How much  _____  for the car?",
+    "variants": [
+      "did you payed",
+      "did you pay",
+      "payed you"
+    ],
+    "correct": 1
+  }
+]
