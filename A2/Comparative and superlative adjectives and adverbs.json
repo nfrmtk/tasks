@@ -1,0 +1,112 @@
+[
+  {
+    "textStart": "They arrived ",
+    "textEnd": ".",
+    "text": "They arrived  _____ .",
+    "variants": [
+      "earlier than us",
+      "earlier than we",
+      "more early than we"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "Please, can you drive ",
+    "textEnd": "?",
+    "text": "Please, can you drive  _____ ?",
+    "variants": [
+      "slowlier",
+      "most slowly",
+      "more slowly"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "This is going to be ",
+    "textEnd": " show you have ever seen. ",
+    "text": "This is going to be  _____  show you have ever seen. ",
+    "variants": [
+      "the biggest",
+      "the bigest",
+      "the bigger"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "My current job is ",
+    "textEnd": " more stressful than my last job. ",
+    "text": "My current job is  _____  more stressful than my last job. ",
+    "variants": [
+      "very",
+      "much",
+      "lot"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "He isn't as ",
+    "textEnd": " you. ",
+    "text": "He isn't as  _____  you. ",
+    "variants": [
+      "smart as",
+      "smarter as",
+      "smarter than"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "What is the ",
+    "textEnd": " option in the menu?",
+    "text": "What is the  _____  option in the menu?",
+    "variants": [
+      "healthiest",
+      "most healthy",
+      "healthier"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "You aren't as determined ",
+    "textEnd": ".",
+    "text": "You aren't as determined  _____ .",
+    "variants": [
+      "as I am",
+      "than me",
+      "as I"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "My great-grandmother is the oldest person ",
+    "textEnd": " the family. ",
+    "text": "My great-grandmother is the oldest person  _____  the family. ",
+    "variants": [
+      "from",
+      "of",
+      "in"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "This is the greatest evening I ",
+    "textEnd": ".",
+    "text": "This is the greatest evening I  _____ .",
+    "variants": [
+      "ever had",
+      "'ve never had",
+      "'ve ever had"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "York is a bit ",
+    "textEnd": " than Leeds. ",
+    "text": "York is a bit  _____  than Leeds. ",
+    "variants": [
+      "farer",
+      "more far",
+      "further"
+    ],
+    "correct": 2
+  }
+]
