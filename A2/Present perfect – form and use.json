@@ -1,0 +1,102 @@
+[
+  {
+    "textStart": "I've had this car ",
+    "textEnd": " years.",
+    "text": "I've had this car  _____  years.",
+    "variants": [
+      "for",
+      "since"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "We've known each other ",
+    "textEnd": " we were in school.",
+    "text": "We've known each other  _____  we were in school.",
+    "variants": [
+      "for",
+      "since"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "I haven't eaten anything ",
+    "textEnd": " this morning. ",
+    "text": "I haven't eaten anything  _____  this morning. ",
+    "variants": [
+      "for",
+      "since"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "She hasn't slept ",
+    "textEnd": " two days. ",
+    "text": "She hasn't slept  _____  two days. ",
+    "variants": [
+      "for",
+      "since"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "I have wanted to be a writer ",
+    "textEnd": " I was a child. ",
+    "text": "I have wanted to be a writer  _____  I was a child. ",
+    "variants": [
+      "for",
+      "since"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "We've been together ",
+    "textEnd": " over ten years. ",
+    "text": "We've been together  _____  over ten years. ",
+    "variants": [
+      "since",
+      "for"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "I haven't seen John ",
+    "textEnd": " last July. ",
+    "text": "I haven't seen John  _____  last July. ",
+    "variants": [
+      "since",
+      "for"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "It hasn't rained ",
+    "textEnd": " a long time. ",
+    "text": "It hasn't rained  _____  a long time. ",
+    "variants": [
+      "since",
+      "for"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "She's worked in this bank ",
+    "textEnd": " 25 years.  ",
+    "text": "She's worked in this bank  _____  25 years.  ",
+    "variants": [
+      "for",
+      "since"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "She's worked in this bank ",
+    "textEnd": " it first opened.",
+    "text": "She's worked in this bank  _____  it first opened.",
+    "variants": [
+      "since",
+      "for"
+    ],
+    "correct": 0
+  }
+]
