@@ -1,0 +1,11 @@
+{
+  "textStart": "I ",
+  "textEnd": " a black shirt for the gala.",
+  "text": "I  _____  a black shirt for the gala.",
+  "variants": [
+    "choosed",
+    "did choose",
+    "chose"
+  ],
+  "correct": 2
+}

@@ -1,0 +1,10 @@
+{
+  "textStart": "We've been together ",
+  "textEnd": " over ten years. ",
+  "text": "We've been together  _____  over ten years. ",
+  "variants": [
+    "since",
+    "for"
+  ],
+  "correct": 1
+}

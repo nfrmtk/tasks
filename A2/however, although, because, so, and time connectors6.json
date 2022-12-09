@@ -1,0 +1,12 @@
+{
+  "textStart": "There was nothing on TV, ",
+  "textEnd": " I went to bed.",
+  "text": "There was nothing on TV,  _____  I went to bed.",
+  "variants": [
+    "but",
+    "although",
+    "because",
+    "so"
+  ],
+  "correct": 3
+}

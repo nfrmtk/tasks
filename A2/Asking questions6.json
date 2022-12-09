@@ -1,0 +1,11 @@
+{
+  "textStart": "Why ",
+  "textEnd": " that box there?",
+  "text": "Why  _____  that box there?",
+  "variants": [
+    "put you",
+    "you did put",
+    "did you put"
+  ],
+  "correct": 2
+}

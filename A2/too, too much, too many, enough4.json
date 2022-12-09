@@ -1,0 +1,11 @@
+{
+  "textStart": "I know I talk ",
+  "textEnd": ". I should talk less.",
+  "text": "I know I talk  _____ . I should talk less.",
+  "variants": [
+    "too many",
+    "enough",
+    "too much"
+  ],
+  "correct": 2
+}

@@ -1,0 +1,10 @@
+{
+  "textStart": "We've known each other ",
+  "textEnd": " we were in school.",
+  "text": "We've known each other  _____  we were in school.",
+  "variants": [
+    "for",
+    "since"
+  ],
+  "correct": 1
+}

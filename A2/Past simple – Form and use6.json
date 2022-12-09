@@ -1,0 +1,11 @@
+{
+  "textStart": "The police ",
+  "textEnd": " the robber.",
+  "text": "The police  _____  the robber.",
+  "variants": [
+    "caught",
+    "was catch",
+    "catched"
+  ],
+  "correct": 0
+}

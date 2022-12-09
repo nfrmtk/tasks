@@ -1,0 +1,11 @@
+{
+  "textStart": "I don't earn ",
+  "textEnd": " to buy that car. ",
+  "text": "I don't earn  _____  to buy that car. ",
+  "variants": [
+    "too much money",
+    "money enough",
+    "enough money"
+  ],
+  "correct": 2
+}

@@ -1,0 +1,11 @@
+{
+  "textStart": "How much ",
+  "textEnd": " for the car?",
+  "text": "How much  _____  for the car?",
+  "variants": [
+    "did you payed",
+    "did you pay",
+    "payed you"
+  ],
+  "correct": 1
+}

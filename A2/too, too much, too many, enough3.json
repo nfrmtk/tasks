@@ -1,0 +1,11 @@
+{
+  "textStart": "My manager says that I play ",
+  "textEnd": " to win the competition. ",
+  "text": "My manager says that I play  _____  to win the competition. ",
+  "variants": [
+    "well enough",
+    "enough well",
+    "too much well"
+  ],
+  "correct": 0
+}

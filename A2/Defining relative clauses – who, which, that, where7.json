@@ -1,0 +1,11 @@
+{
+  "textStart": "I can't find the CD ",
+  "textEnd": " I borrowed from you.",
+  "text": "I can't find the CD  _____  I borrowed from you.",
+  "variants": [
+    "what",
+    "that",
+    "who"
+  ],
+  "correct": 1
+}

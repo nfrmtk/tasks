@@ -1,0 +1,11 @@
+{
+  "textStart": "How many brothers and sisters ",
+  "textEnd": "?",
+  "text": "How many brothers and sisters  _____ ?",
+  "variants": [
+    "you have",
+    "have you",
+    "have you got"
+  ],
+  "correct": 2
+}

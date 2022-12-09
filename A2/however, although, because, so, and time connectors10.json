@@ -1,0 +1,11 @@
+{
+  "textStart": "They wanted to win ",
+  "textEnd": " it was impossible",
+  "text": "They wanted to win  _____  it was impossible",
+  "variants": [
+    "because",
+    "but",
+    "so"
+  ],
+  "correct": 1
+}

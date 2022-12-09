@@ -1,0 +1,10 @@
+{
+  "textStart": "I haven't eaten anything ",
+  "textEnd": " this morning. ",
+  "text": "I haven't eaten anything  _____  this morning. ",
+  "variants": [
+    "for",
+    "since"
+  ],
+  "correct": 1
+}

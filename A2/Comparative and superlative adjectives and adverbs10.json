@@ -1,0 +1,11 @@
+{
+  "textStart": "York is a bit ",
+  "textEnd": " than Leeds. ",
+  "text": "York is a bit  _____  than Leeds. ",
+  "variants": [
+    "farer",
+    "more far",
+    "further"
+  ],
+  "correct": 2
+}

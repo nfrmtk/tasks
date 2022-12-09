@@ -1,0 +1,11 @@
+{
+  "textStart": "I want to see the film ",
+  "textEnd": " everybody's talking about.",
+  "text": "I want to see the film  _____  everybody's talking about.",
+  "variants": [
+    "who",
+    "that it",
+    "which"
+  ],
+  "correct": 2
+}

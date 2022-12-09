@@ -1,0 +1,11 @@
+{
+  "textStart": "My current job is ",
+  "textEnd": " more stressful than my last job. ",
+  "text": "My current job is  _____  more stressful than my last job. ",
+  "variants": [
+    "very",
+    "much",
+    "lot"
+  ],
+  "correct": 1
+}

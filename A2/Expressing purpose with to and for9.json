@@ -1,0 +1,10 @@
+{
+  "textStart": "This knife is used ",
+  "textEnd": " cutting plastic. ",
+  "text": "This knife is used  _____  cutting plastic. ",
+  "variants": [
+    "to",
+    "for"
+  ],
+  "correct": 1
+}

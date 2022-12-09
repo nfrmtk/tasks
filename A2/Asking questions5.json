@@ -1,0 +1,11 @@
+{
+  "textStart": null,
+  "textEnd": " John this morning?",
+  "text": " _____  John this morning?",
+  "variants": [
+    "You did see",
+    "Did you see",
+    "You saw"
+  ],
+  "correct": 1
+}
