@@ -1,0 +1,119 @@
+[
+  {
+    "textStart": "We couldn't find a taxi, ",
+    "textEnd": " we walked home",
+    "text": "We couldn't find a taxi,  _____  we walked home",
+    "variants": [
+      "although",
+      "but",
+      "so",
+      "because"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": null,
+    "textEnd": " it was very cold, she wasn't wearing a coat.",
+    "text": " _____  it was very cold, she wasn't wearing a coat.",
+    "variants": [
+      "Because",
+      "So",
+      "But",
+      "Although"
+    ],
+    "correct": 3
+  },
+  {
+    "textStart": "I woke up ",
+    "textEnd": " there was a noise.",
+    "text": "I woke up  _____  there was a noise.",
+    "variants": [
+      "so",
+      "although",
+      "but",
+      "because"
+    ],
+    "correct": 3
+  },
+  {
+    "textStart": "I called him ",
+    "textEnd": " his mobile was turned off.",
+    "text": "I called him  _____  his mobile was turned off.",
+    "variants": [
+      "so",
+      "but",
+      "because"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": null,
+    "textEnd": " she's very nice, she doesn't have many friends.",
+    "text": " _____  she's very nice, she doesn't have many friends.",
+    "variants": [
+      "So",
+      "But",
+      "Although",
+      "Because"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "There was nothing on TV, ",
+    "textEnd": " I went to bed.",
+    "text": "There was nothing on TV,  _____  I went to bed.",
+    "variants": [
+      "but",
+      "although",
+      "because",
+      "so"
+    ],
+    "correct": 3
+  },
+  {
+    "textStart": "All the cafés were full ",
+    "textEnd": " it was a public holiday.",
+    "text": "All the cafés were full  _____  it was a public holiday.",
+    "variants": [
+      "because",
+      "although",
+      "so",
+      "but"
+    ],
+    "correct": 0
+  },
+  {
+    "textStart": "She studied quite hard ",
+    "textEnd": " she failed the exam.",
+    "text": "She studied quite hard  _____  she failed the exam.",
+    "variants": [
+      "so",
+      "but",
+      "because"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "She was crying ",
+    "textEnd": " her team lost the match",
+    "text": "She was crying  _____  her team lost the match",
+    "variants": [
+      "although",
+      "so",
+      "because",
+      "but"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "They wanted to win ",
+    "textEnd": " it was impossible",
+    "text": "They wanted to win  _____  it was impossible",
+    "variants": [
+      "because",
+      "but",
+      "so"
+    ],
+    "correct": 1
+  }
+]
