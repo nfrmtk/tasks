@@ -1,0 +1,112 @@
+[
+  {
+    "textStart": null,
+    "textEnd": " the people in the audience were wearing masks.",
+    "text": " _____  the people in the audience were wearing masks.",
+    "variants": [
+      "Most",
+      "Most of",
+      "The most"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": null,
+    "textEnd": " people don't wear masks.",
+    "text": " _____  people don't wear masks.",
+    "variants": [
+      "The most",
+      "Most of",
+      "Most"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": null,
+    "textEnd": " important things in life are health and love. ",
+    "text": " _____  important things in life are health and love. ",
+    "variants": [
+      "Most of",
+      "Most",
+      "The most"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "Chloe invited ",
+    "textEnd": " her friends to her birthday party. ",
+    "text": "Chloe invited  _____  her friends to her birthday party. ",
+    "variants": [
+      "most",
+      "most of",
+      "the most"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": null,
+    "textEnd": " people in Northern Europe can speak English.",
+    "text": " _____  people in Northern Europe can speak English.",
+    "variants": [
+      "The most",
+      "Most of",
+      "Most"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "Studies show that ",
+    "textEnd": " teenagers need 9 hours of sleep.",
+    "text": "Studies show that  _____  teenagers need 9 hours of sleep.",
+    "variants": [
+      "most of",
+      "the most",
+      "most"
+    ],
+    "correct": 2
+  },
+  {
+    "textStart": "He bought ",
+    "textEnd": " expensive watch in the shop.",
+    "text": "He bought  _____  expensive watch in the shop.",
+    "variants": [
+      "most",
+      "the most",
+      "most of"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "There were lots of people and I didn't know ",
+    "textEnd": " them. ",
+    "text": "There were lots of people and I didn't know  _____  them. ",
+    "variants": [
+      "most",
+      "most of",
+      "the most"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": null,
+    "textEnd": " teachers continue using exams.",
+    "text": " _____  teachers continue using exams.",
+    "variants": [
+      "Most of",
+      "Most",
+      "The most"
+    ],
+    "correct": 1
+  },
+  {
+    "textStart": "Lori is ",
+    "textEnd": " optimistic of the group. ",
+    "text": "Lori is  _____  optimistic of the group. ",
+    "variants": [
+      "most",
+      "most of",
+      "the most"
+    ],
+    "correct": 2
+  }
+]
