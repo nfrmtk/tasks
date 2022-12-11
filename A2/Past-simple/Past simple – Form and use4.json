@@ -1,0 +1,11 @@
+{
+  "textStart": "The car suddenly ",
+  "textEnd": ".",
+  "text": "The car suddenly  _____ .",
+  "variants": [
+    "stoped",
+    "did stop",
+    "stopped"
+  ],
+  "correct": 2
+}

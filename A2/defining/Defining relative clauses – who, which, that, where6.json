@@ -1,0 +1,11 @@
+{
+  "textStart": "That's the shop ",
+  "textEnd": " I bought those shoes.",
+  "text": "That's the shop  _____  I bought those shoes.",
+  "variants": [
+    "that",
+    "where",
+    "which"
+  ],
+  "correct": 1
+}

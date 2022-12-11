@@ -1,0 +1,10 @@
+{
+  "textStart": "It hasn't rained ",
+  "textEnd": " a long time. ",
+  "text": "It hasn't rained  _____  a long time. ",
+  "variants": [
+    "since",
+    "for"
+  ],
+  "correct": 1
+}

@@ -1,0 +1,11 @@
+{
+  "textStart": "Every Monday evening we go ",
+  "textEnd": ".",
+  "text": "Every Monday evening we go  _____ .",
+  "variants": [
+    "on a drink",
+    "to a drink",
+    "for a drink"
+  ],
+  "correct": 2
+}

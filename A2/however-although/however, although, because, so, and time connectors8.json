@@ -1,0 +1,11 @@
+{
+  "textStart": "She studied quite hard ",
+  "textEnd": " she failed the exam.",
+  "text": "She studied quite hard  _____  she failed the exam.",
+  "variants": [
+    "so",
+    "but",
+    "because"
+  ],
+  "correct": 1
+}

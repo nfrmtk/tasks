@@ -1,0 +1,11 @@
+{
+  "textStart": "What is the ",
+  "textEnd": " option in the menu?",
+  "text": "What is the  _____  option in the menu?",
+  "variants": [
+    "healthiest",
+    "most healthy",
+    "healthier"
+  ],
+  "correct": 0
+}

@@ -1,0 +1,10 @@
+{
+  "textStart": "I've had this car ",
+  "textEnd": " years.",
+  "text": "I've had this car  _____  years.",
+  "variants": [
+    "for",
+    "since"
+  ],
+  "correct": 0
+}

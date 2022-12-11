@@ -1,0 +1,10 @@
+{
+  "textStart": "I need my computer ",
+  "textEnd": " send an important email. ",
+  "text": "I need my computer  _____  send an important email. ",
+  "variants": [
+    "to",
+    "for"
+  ],
+  "correct": 0
+}

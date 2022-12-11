@@ -1,0 +1,11 @@
+{
+  "textStart": "What time ",
+  "textEnd": " pick me up?",
+  "text": "What time  _____  pick me up?",
+  "variants": [
+    "do you can",
+    "can you",
+    "you can"
+  ],
+  "correct": 1
+}

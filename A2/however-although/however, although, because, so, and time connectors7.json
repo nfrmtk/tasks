@@ -1,0 +1,12 @@
+{
+  "textStart": "All the cafés were full ",
+  "textEnd": " it was a public holiday.",
+  "text": "All the cafés were full  _____  it was a public holiday.",
+  "variants": [
+    "because",
+    "although",
+    "so",
+    "but"
+  ],
+  "correct": 0
+}

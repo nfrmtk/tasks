@@ -1,0 +1,11 @@
+{
+  "textStart": "You should avoid ",
+  "textEnd": " to strangers.",
+  "text": "You should avoid  _____  to strangers.",
+  "variants": [
+    "to talk",
+    "talk",
+    "talking"
+  ],
+  "correct": 2
+}

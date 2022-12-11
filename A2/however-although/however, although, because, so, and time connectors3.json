@@ -1,0 +1,12 @@
+{
+  "textStart": "I woke up ",
+  "textEnd": " there was a noise.",
+  "text": "I woke up  _____  there was a noise.",
+  "variants": [
+    "so",
+    "although",
+    "but",
+    "because"
+  ],
+  "correct": 3
+}

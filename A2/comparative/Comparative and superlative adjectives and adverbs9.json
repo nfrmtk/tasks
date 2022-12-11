@@ -1,0 +1,11 @@
+{
+  "textStart": "This is the greatest evening I ",
+  "textEnd": ".",
+  "text": "This is the greatest evening I  _____ .",
+  "variants": [
+    "ever had",
+    "'ve never had",
+    "'ve ever had"
+  ],
+  "correct": 2
+}

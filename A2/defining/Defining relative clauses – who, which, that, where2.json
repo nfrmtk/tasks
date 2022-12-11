@@ -1,0 +1,11 @@
+{
+  "textStart": "The Internet is a place ",
+  "textEnd": " you can get cheap technology products.",
+  "text": "The Internet is a place  _____  you can get cheap technology products.",
+  "variants": [
+    "that",
+    "where",
+    "which"
+  ],
+  "correct": 1
+}

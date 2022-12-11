@@ -1,0 +1,12 @@
+{
+  "textStart": "We couldn't find a taxi, ",
+  "textEnd": " we walked home",
+  "text": "We couldn't find a taxi,  _____  we walked home",
+  "variants": [
+    "although",
+    "but",
+    "so",
+    "because"
+  ],
+  "correct": 2
+}

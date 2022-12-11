@@ -1,0 +1,11 @@
+{
+  "textStart": "Where ",
+  "textEnd": " last night?",
+  "text": "Where  _____  last night?",
+  "variants": [
+    "Tim was",
+    "was Tim",
+    "did Tim be"
+  ],
+  "correct": 0
+}

@@ -1,0 +1,10 @@
+{
+  "textStart": "A thermometer is a tool ",
+  "textEnd": " measuring the temperature.  ",
+  "text": "A thermometer is a tool  _____  measuring the temperature.  ",
+  "variants": [
+    "to",
+    "for"
+  ],
+  "correct": 1
+}

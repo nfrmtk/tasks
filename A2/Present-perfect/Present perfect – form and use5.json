@@ -1,0 +1,10 @@
+{
+  "textStart": "I have wanted to be a writer ",
+  "textEnd": " I was a child. ",
+  "text": "I have wanted to be a writer  _____  I was a child. ",
+  "variants": [
+    "for",
+    "since"
+  ],
+  "correct": 1
+}

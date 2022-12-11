@@ -1,0 +1,10 @@
+{
+  "textStart": "She hasn't slept ",
+  "textEnd": " two days. ",
+  "text": "She hasn't slept  _____  two days. ",
+  "variants": [
+    "for",
+    "since"
+  ],
+  "correct": 0
+}

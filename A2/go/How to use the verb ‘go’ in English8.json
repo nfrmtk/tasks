@@ -1,0 +1,11 @@
+{
+  "textStart": "What time do you ",
+  "textEnd": " home on Mondays?",
+  "text": "What time do you  _____  home on Mondays?",
+  "variants": [
+    "go to",
+    "go",
+    "go to the"
+  ],
+  "correct": 1
+}

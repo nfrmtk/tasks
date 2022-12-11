@@ -1,0 +1,11 @@
+{
+  "textStart": "They arrived ",
+  "textEnd": ".",
+  "text": "They arrived  _____ .",
+  "variants": [
+    "earlier than us",
+    "earlier than we",
+    "more early than we"
+  ],
+  "correct": 0
+}

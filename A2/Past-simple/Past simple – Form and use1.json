@@ -1,0 +1,11 @@
+{
+  "textStart": "We ",
+  "textEnd": " to Vancouver on holiday.",
+  "text": "We  _____  to Vancouver on holiday.",
+  "variants": [
+    "goed",
+    "went",
+    "did go"
+  ],
+  "correct": 1
+}

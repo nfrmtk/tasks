@@ -1,0 +1,11 @@
+{
+  "textStart": "How often ",
+  "textEnd": " to the dentist?",
+  "text": "How often  _____  to the dentist?",
+  "variants": [
+    "do you go",
+    "you go",
+    "you do go"
+  ],
+  "correct": 0
+}

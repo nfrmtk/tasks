@@ -1,0 +1,11 @@
+{
+  "textStart": "When she arrived he ",
+  "textEnd": " at home.",
+  "text": "When she arrived he  _____  at home.",
+  "variants": [
+    "weren't",
+    "wasn't",
+    "didn't was"
+  ],
+  "correct": 1
+}
